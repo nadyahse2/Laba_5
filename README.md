@@ -43,3 +43,5 @@
 7.  Запустите класс `MainFrame`.
 
 ## Скриншоты
+![1](https://github.com/user-attachments/assets/3838d0c0-09b6-4dde-b51b-80e4b51143ca)
+
